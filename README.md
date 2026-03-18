@@ -1,4 +1,4 @@
-hi i'm Bruno Depetris 👋 *Programador en formacion* 💻
+hi i'm Bruno Depetris 👋 *Programador* 💻
 
 ## 🌱Social🌱: 
 Instagram https://www.instagram.com/depetrisbruno/?hl=es-la
