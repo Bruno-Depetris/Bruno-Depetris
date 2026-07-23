@@ -12,6 +12,9 @@
   <a href="https://www.instagram.com/depetrisbruno/?hl=es-la" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:depetrisbruno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -40,26 +43,29 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,vue,nodejs,html,css,python,git,github,vscode,cpp,dotnet,flutter,mysql,obsidian&theme=dark" />
 </p>
-
-<p align="center"><i>(editá la lista de íconos según tus tecnologías reales, la referencia completa está en <a href="https://skillicons.dev">skillicons.dev</a>)</i></p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en Solsoft
-- 🌱 Aprendiendo Clean ARCHITECTURE
-- 👯 Buscando colaborar en servicios de telemedicion
-- 📫 Cómo contactarme: 
-depetrisbruno@gmail.com
-Instagram [@depetrisbruno](https://www.instagram.com/depetrisbruno/?hl=es-la)
+- 🔭 Actualmente trabajando en **Solsoft**
+- 🌱 Aprendiendo **Clean Architecture**
+- 👯 Buscando colaborar en **servicios de telemedicina**
+- 📫 Cómo contactarme:
+
+<p align="left">
+  <a href="mailto:depetrisbruno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/depetrisbruno/?hl=es-la" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ### 🐍 Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bruno-Depetris/Bruno-Depetris/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-<p align="center"><i>(esta requiere activar una GitHub Action, te dejo el paso a paso más abajo)</i></p>
