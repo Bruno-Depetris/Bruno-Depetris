@@ -4,7 +4,7 @@
 📈 Actividad reciente
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-Depetris&theme=tokyo-night&hide_border=true" /> </p>
 🏆 Trofeos
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Bruno-Depetris&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+<p align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=Bruno-Depetris&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=Bruno-Depetris&theme=tokyonight&column=7)" /> </p>
 🚀 Sobre mí
 🔭 Actualmente trabajando en...
 🌱 Aprendiendo...
