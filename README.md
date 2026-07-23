@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfoliobrunodepetris.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/depetrisbruno/?hl=es-la" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
