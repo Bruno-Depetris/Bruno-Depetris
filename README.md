@@ -37,24 +37,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-Depetris&theme=tokyo-night&hide_border=true" />
 </p>
 
-### 🏆 Trofeos
+### 🛠️ Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bruno-Depetris&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode&theme=dark" />
 </p>
+
+<p align="center"><i>(editá la lista de íconos según tus tecnologías reales, la referencia completa está en <a href="https://skillicons.dev">skillicons.dev</a>)</i></p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en...
-- 🌱 Aprendiendo...
-- 👯 Buscando colaborar en...
-- 🤔 Buscando ayuda con...
-- 💬 Preguntame sobre...
-- 📫 Cómo contactarme: Instagram [@depetrisbruno](https://www.instagram.com/depetrisbruno/?hl=es-la)
-- ⚡ Dato curioso:...
+- 🔭 Actualmente trabajando en Solsoft
+- 🌱 Aprendiendo Clean ARCHITECTURE
+- 👯 Buscando colaborar en servicios de telemedicion
+- 📫 Cómo contactarme: 
+depetrisbruno@gmail.com
+Instagram [@depetrisbruno](https://www.instagram.com/depetrisbruno/?hl=es-la)
+
+### 🐍 Contribuciones
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bruno-Depetris&color=58A6FF&style=for-the-badge&label=Visitas+al+perfil" alt="visitor badge" />
+  <img src="https://raw.githubusercontent.com/Bruno-Depetris/Bruno-Depetris/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<p align="center"><i>(esta requiere activar una GitHub Action, te dejo el paso a paso más abajo)</i></p>
